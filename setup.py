@@ -10,10 +10,10 @@ import codecs
 from setuptools import find_packages, setup
 
 dependencies = [
-    "boto3==1.20.22",
-    "prometheus-client==0.12.0",
-    "cachetools==4.2.4",
-    "python-json-logger==2.0.2",
+    "boto3==1.26.45",
+    "prometheus-client==0.15.0",
+    "cachetools==5.2.1",
+    "python-json-logger==2.0.4",
 ]
 
 setup(
